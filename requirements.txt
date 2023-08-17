@@ -1,0 +1,4 @@
+tensorflow
+keras_cv
+keras_core
+stremlit
